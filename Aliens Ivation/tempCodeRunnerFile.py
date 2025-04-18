@@ -1,0 +1,1 @@
+self.sb.check_high_score()
